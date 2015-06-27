@@ -1,0 +1,31 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 960px;
+    padding: 20px 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+#random-word {
+    text-align: center;
+    border: 2px solid black;
+    width: 610px;
+    margin: 0 auto;
+    padding: 30px 0;
+    font-size: 26px;
+}
+
+input[type=submit]
+{
+    text-align: center;
+    margin: 20px auto;
+    text-transform: capitalize;
+    display: block;
+    font-size: 20px;
+}
